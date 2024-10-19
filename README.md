@@ -3,6 +3,4 @@ Data Analyst App, which was programmed on the Mac and 2024a Matlab version GUI. 
 The uploaded data is for the knee flexion angle during the gait cycle. However, the app is general and can be used for any numerical dataset.
 This app was originally made for the data analysis final project.
 Contributers:
-Farzaneh Vafaeinezhad (farzane78)
-Sabrina Miller (SabrinaMillerSM)
-Yeganeh Mohammadi
+Farzaneh Vafaeinezhad (farzane78), Sabrina Miller (SabrinaMillerSM), Yeganeh Mohammadi
